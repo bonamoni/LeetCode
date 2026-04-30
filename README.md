@@ -29,6 +29,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -76,15 +77,18 @@ LeetCode
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
