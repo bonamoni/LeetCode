@@ -9,6 +9,7 @@ LeetCode
 | [0001-two-sum](https://github.com/bonamoni/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0037-sudoku-solver](https://github.com/bonamoni/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bonamoni/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/bonamoni/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -29,6 +30,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/bonamoni/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/bonamoni/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bonamoni/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
