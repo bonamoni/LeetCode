@@ -19,6 +19,7 @@ LeetCode
 | ------- | ------- |
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/bonamoni/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bonamoni/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bonamoni/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -33,6 +34,7 @@ LeetCode
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bonamoni/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/bonamoni/LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bonamoni/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -88,6 +91,7 @@ LeetCode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bonamoni/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
@@ -97,6 +101,7 @@ LeetCode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bonamoni/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bonamoni/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Stack
@@ -118,4 +123,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bonamoni/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bonamoni/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
