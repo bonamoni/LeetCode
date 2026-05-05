@@ -31,6 +31,7 @@ LeetCode
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/bonamoni/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/bonamoni/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/bonamoni/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/bonamoni/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bonamoni/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Depth-First Search
